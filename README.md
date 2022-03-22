@@ -1,8 +1,8 @@
-- Seja bem-vindo ao meu GITHUB.
+- Seja bem-vindo ao meu GITHUB. 😎
 - Formado em analise e desenvolvimento de sistemas 🎓
 - Pós graduando em Segurança cibernética empresarial 🔒
 - Buscando oportunidades na área de segurança da informação 🏸
-
+- Perfil em construção, em breve postarei projetos de ciber.
 <div>
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictoRodrigues92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
