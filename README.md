@@ -1,6 +1,6 @@
 - Seja bem-vindo ao meu GITHUB. 😎
 - Formado em analise e desenvolvimento de sistemas 🎓
-- Pós graduando em Segurança cibernética empresarial 🔒
+- Pós graduando em Gestão de Segurança Cibernética Empresarial 🔒
 - Buscando oportunidades na área de segurança da informação 🏸
 - Perfil em construção, em breve postarei projetos de Cyber 🙌
 - E-mail para contato: joao.v.rodrigues@outlook.com ✔
