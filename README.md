@@ -1,5 +1,6 @@
 <h2>· Perfil</h2>
-- Seja bem-vindo ao meu GITHUB. 😎 <br>
+- Alô tech recruiter! Beleza?
+- Sejam TODOS bem-vindo ao meu GITHUB. 😎 <br>
 - Formado em Analise e Desenvolvimento de Sistemas 🎓 <br>
 - Pós graduando em Gestão de Segurança Cibernética Empresarial 🔒 <br>
 - Buscando oportunidades na área de segurança da informação 🏸 <br>
