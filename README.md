@@ -21,7 +21,7 @@
 · DevOps & Agile Culture - Concluído ✔ <br>
 · Mobile Marketing – Concluído ✔ <br>
 · User Experience – Concluído ✔ <br>
-· Segurança da Informação – Concluído ✔
+· Segurança da Informação – Concluído ✔ <br>
 · Introdução a rede de computador – Concluído ✔ <br>
 · Fundamentos de Governança T.I – Concluído ✔ <br>
 · TIC – Tecnologia da Informação e Comunicação – Concluído ✔ <br>
