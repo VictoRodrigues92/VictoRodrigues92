@@ -5,7 +5,9 @@
 - Perfil em construção, em breve postarei projetos de Cyber 🙌 
 - E-mail para contato: joao.v.rodrigues@outlook.com ✔ 
 
-- Cursos <br>
+
+
+<h2>· Cursos</h2>
 
 · Ethical Hacker - Cursando ✏<br>
 · CyberSecurity - Concluído ✔ <br>
