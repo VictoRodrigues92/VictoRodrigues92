@@ -1,5 +1,5 @@
 <h2>· Perfil</h2>
-- Alô tech recruiter! Beleza?
+- Alô tech recruiter! Beleza? 😉 <br>
 - Sejam TODOS bem-vindo ao meu GITHUB. 😎 <br>
 - Formado em Analise e Desenvolvimento de Sistemas 🎓 <br>
 - Pós graduando em Gestão de Segurança Cibernética Empresarial 🔒 <br>
