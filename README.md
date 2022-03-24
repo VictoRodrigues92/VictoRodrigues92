@@ -1,33 +1,33 @@
-- Seja bem-vindo ao meu GITHUB. 😎
-- Formado em analise e desenvolvimento de sistemas 🎓
-- Pós graduando em Gestão de Segurança Cibernética Empresarial 🔒
-- Buscando oportunidades na área de segurança da informação 🏸
-- Perfil em construção, em breve postarei projetos de Cyber 🙌
-- E-mail para contato: joao.v.rodrigues@outlook.com ✔
+- Seja bem-vindo ao meu GITHUB. 😎 <br>
+- Formado em analise e desenvolvimento de sistemas 🎓 <br>
+- Pós graduando em Gestão de Segurança Cibernética Empresarial 🔒 <br>
+- Buscando oportunidades na área de segurança da informação 🏸 <br>
+- Perfil em construção, em breve postarei projetos de Cyber 🙌 <br>
+- E-mail para contato: joao.v.rodrigues@outlook.com ✔ <br>
 
-- Cursos 
+- Cursos <br>
 
-· Ethical Hacker - Cursando ✏/n
-· CyberSecurity - Concluído ✔
-· Gestão de Infraestrutura de TI - Concluído ✔
-· Cloud Fundamentals, administration and solution Architect - Concluído ✔
-· Big Data fundamentos – Concluído ✔
-· Introdução a ciência de dados 2.0 – Concluído ✔
-· Microsoft Power BI – Concluído ✔
-· Business Intelligence – Concluído ✔
-· DevOps & Agile Culture - Concluído ✔
-· Mobile Marketing – Concluído ✔
-· User Experience – Concluído ✔
+· Ethical Hacker - Cursando ✏<br>
+· CyberSecurity - Concluído ✔ <br>
+· Gestão de Infraestrutura de TI - Concluído ✔ <br>
+· Cloud Fundamentals, administration and solution Architect - Concluído ✔ <br>
+· Big Data fundamentos – Concluído ✔ <br>
+· Introdução a ciência de dados 2.0 – Concluído ✔ <br>
+· Microsoft Power BI – Concluído ✔ <br>
+· Business Intelligence – Concluído ✔ <br>
+· DevOps & Agile Culture - Concluído ✔ <br>
+· Mobile Marketing – Concluído ✔ <br>
+· User Experience – Concluído ✔ <br>
 · Segurança da Informação – Concluído ✔
-· Introdução a rede de computador – Concluído ✔
-· Fundamentos de Governança T.I – Concluído ✔
-· TIC – Tecnologia da Informação e Comunicação – Concluído ✔
-· Fundamentos de ITIL – Concluído ✔
-· Soluções Tecnológicas Emergentes – Concluído ✔
-· LGPD – Algar Tech – Concluído  ✔
-· Desenvolvimento Java HTML/Console – Concluído ✔
-· Soluções Tecnológicas Emergentes - Concluído ✔
-· Marketing em Plataformas de Social Media - Concluído ✔
+· Introdução a rede de computador – Concluído ✔ <br>
+· Fundamentos de Governança T.I – Concluído ✔ <br>
+· TIC – Tecnologia da Informação e Comunicação – Concluído ✔ <br>
+· Fundamentos de ITIL – Concluído ✔ <br>
+· Soluções Tecnológicas Emergentes – Concluído ✔ <br>
+· LGPD – Algar Tech – Concluído  ✔ <br>
+· Desenvolvimento Java HTML/Console – Concluído ✔ <br>
+· Soluções Tecnológicas Emergentes - Concluído ✔ <br>
+· Marketing em Plataformas de Social Media - Concluído ✔ <br>
 
 
 
