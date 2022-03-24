@@ -32,9 +32,18 @@
 · Soluções Tecnológicas Emergentes - Concluído ✔ <br>
 · Marketing em Plataformas de Social Media - Concluído ✔ <br>
 
-
-
-
+<h2>· Empresas nas quais trabalhei ou prestei serviço: </h2>
+· ALGAR TECH <br>
+· IBM <br>
+· ENEL <br> 
+· REDE GLOBO <br>
+· PROFARMA <br>
+· TM SOLUTIONS<br>
+· DIVIDATA  <br>
+· CAIXA ECONÔMICA FEDERAL <br>
+· AUTO VIAÇÃO MAUÁ <br>
+<br>
+<br>
 
 
 
