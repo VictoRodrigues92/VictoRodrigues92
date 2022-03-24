@@ -7,7 +7,7 @@
 
 - Cursos 
 
-· Ethical Hacker - Cursando
+· Ethical Hacker - Cursando ✏/n
 · CyberSecurity - Concluído ✔
 · Gestão de Infraestrutura de TI - Concluído ✔
 · Cloud Fundamentals, administration and solution Architect - Concluído ✔
