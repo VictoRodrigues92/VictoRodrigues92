@@ -73,8 +73,7 @@
  
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  
-- Contador de visitantes: <br> 
-<a href="https://www.webcontadores.com" title="contador de visitantes online"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=hg8fyrfab4tzk1pjjcl945et6llz7s11" border="0" title="contador de visitantes online" alt="contador de visitantes online"></a>
+
   
 </div>
  
