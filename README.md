@@ -39,6 +39,7 @@ Fundamentos de cibersegurança( IBSEC)<br>
 · Marketing em Plataformas de Social Media - Concluído ✔ <br>
 
 <h2>· Empresas nas quais trabalhei ou prestei serviço: </h2>
+· NOMOS (SÓCIO DA XP)
 · ALGAR TECH <br>
 · IBM <br>
 · ENEL <br> 
