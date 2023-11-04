@@ -7,7 +7,12 @@
 - Perfil em construção, em breve postarei projetos de Cyber 🙌 <br>
 - E-mail para contato: joao.v.rodrigues@outlook.com ✔ <br>
 
-
+<h2>· Certificações</h2>
+NSE 1 - NETWORK SECURITY ASSOCIATE (FORTINET)
+NSE 2 - NETWORK SECURITY ASSOCIATE (FORTINET)
+Boas Práticas de Cibersegurança (Cybersecurity Awareness) (IBSEC)
+Analista de cibersegurança(Governança) (IBSEC)
+Fundamentos de cibersegurança( IBSEC)
 
 <h2>· Cursos</h2>
 
