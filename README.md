@@ -5,7 +5,7 @@
 - Pós graduando em Gestão de Segurança Cibernética Empresarial 🔒 <br>
 - Buscando oportunidades na área de segurança da informação 🏸 <br>
 - Perfil em construção, em breve postarei projetos de Cyber 🙌 <br>
-- E-mail para contato: joao.v.rodrigues@outlook.com ✔ <br>
+- E-mail para contato: joao.v.rodrigues@outlook.com.br ✔ <br>
 
 <h2>· Certificações</h2><br>
 NSE 1 - NETWORK SECURITY ASSOCIATE (FORTINET)<br>
